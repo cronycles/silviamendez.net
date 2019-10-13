@@ -525,7 +525,7 @@
                             <div class="row">
                                 <div class="col-md-7">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/e-TsyzzZgX4&origin=http://www.silviamendez.net" frameborder="0">
+                                        <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/e-TsyzzZgX4" frameborder="0">
                                         </iframe>
                                     </div>
                                 </div>
@@ -712,7 +712,7 @@
                             <div class="row">
                                 <div class="col-md-7">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/e-TsyzzZgX4&origin=http://www.silviamendez.net" frameborder="0"></iframe>
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/e-TsyzzZgX4" frameborder="0"></iframe>
                                     </div>
                                 </div>
                                 <div class="col-md-5">
@@ -766,7 +766,7 @@
                             <div class="row">
                                 <div class="col-md-7">
                                     <div class="embed-responsive embed-responsive-16by9">
-                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/pQyByYsAC8M&origin=http://www.silviamendez.net" frameborder="0">
+                                        <iframe width="560" height="315" src="https://www.youtube.com/embed/pQyByYsAC8M" frameborder="0">
                                         </iframe>
                                     </div>
                                 </div>
