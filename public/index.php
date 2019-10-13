@@ -99,7 +99,7 @@
                         baños… lo importante es nunca dejar de buscarla.
                     </p>
                     <p class="text-center">
-                        <a class="btn btn-primary" href="files/CV_SilviaMendez.pdf" target="_blank">
+                        <a class="btn btn-primary" href="files/CV_SilviaMendez.pdf?20191013" target="_blank">
                             <i class="fa fa-download"></i>
                             Descargar Currículum
                         </a>
