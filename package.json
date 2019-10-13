@@ -1,0 +1,23 @@
+{
+  "name": "silviamendez.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronycles/silviamendez.net.git"
+  },
+  "author": "cronycles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cronycles/silviamendez.net/issues"
+  },
+  "homepage": "https://github.com/cronycles/silviamendez.net#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2"
+  }
+}
