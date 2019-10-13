@@ -34,7 +34,7 @@
     <![endif]-->
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-<?php include_once("analyticstracking.php") ?>
+<?php include_once("./analyticstracking.php") ?>
 <!-- Header -->
 <header id="header">
     <div class="intro">

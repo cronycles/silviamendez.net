@@ -19,6 +19,6 @@ DirectoryIndex index.php
     RewriteCond %{REQUEST_FILENAME} -f
     RewriteRule .? - [L]
 
-    RewriteRule .? %{ENV:BASE}/index.php [L]
+    RewriteRule .? %{ENV:BASE}/views/index.php [L]
 
 </IfModule>
