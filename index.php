@@ -4,10 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Silvia Méndez - Diseño & Comunicación</title>
+    <title>Silvia Méndez - Marketing & Comunicación</title>
     <meta name="description" content="Silvia Méndez López - Especializada en Diseño y Comunicación. Perfil profesional y CV">
     <meta name="author" content="Silvia Méndez López">
-    <meta name="keywords" content="silviamendez, silvia mendez, silvia mendez bilbao, silvia diseño comunicacion, silviamendez bilbao, silvixtu, silvia mendez diseño comunicacion, silvia mendez diseño comunicacion bilbao, silvia mendez curriculum, silvia mendez bilbao proyectos, marketing">
+    <meta name="keywords" content="silviamendez, silvia mendez, silvia mendez bilbao, silvia marketing comunicacion, silviamendez bilbao, silvixtu, silvia mendez marketing comunicacion, silvia mendez marketing comunicacion bilbao, silvia mendez curriculum, silvia mendez bilbao proyectos, marketing">
     <meta http-equiv="Content-Security-Policy" content="
     default-src 'self'; 
     script-src 'unsafe-inline' 'self' *.youtube.com *.google-analytics.com; 
@@ -52,7 +52,7 @@
                 <div class="row">
                     <div class="intro-text">
                         <h1><img src="img/logo-white_v3.0.png" width="480" height="112" alt="Silvia Méndez"></h1>
-                        <p>DISEÑO Y COMUNICACIÓN</p>
+                        <p>MARKETING Y COMUNICACIÓN</p>
                         <a href="#portfolio" class="btn btn-default btn-lg page-scroll">Mis proyectos</a>
                     </div>
                 </div>
