@@ -7,12 +7,6 @@ function css() {
         .on('error', console.error);
 }
 
-function clean() {
-    return src('./css/**/*')
-        .pipe(dest('./public/css'))
-        .on('error', console.error);
-}
-
 function files() {
     return src('./files/**/*')
         .pipe(dest('./public/files'))
@@ -49,6 +43,24 @@ function config() {
         .on('error', console.error);
 }
 
+function es() {
+    return src('./es/**/*')
+        .pipe(dest('./public/es'))
+        .on('error', console.error);
+}
+
+function eu() {
+    return src('./eu/**/*')
+        .pipe(dest('./public/eu'))
+        .on('error', console.error);
+}
+
+function partials() {
+    return src('./partials/**/*')
+        .pipe(dest('./public/partials'))
+        .on('error', console.error);
+}
+
 function clean() {
     return del(['public/**/*', '!public'], {dot: true});
 }
@@ -56,5 +68,5 @@ function clean() {
 exports.clean = clean;
 exports.default =
     series(clean,
-        parallel(css, files, fonts, images, js, views, config)
+        parallel(css, es, eu, files, fonts, images, js, partials, views, config)
     );
