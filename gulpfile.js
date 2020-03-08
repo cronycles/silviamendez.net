@@ -61,6 +61,12 @@ function partials() {
         .on('error', console.error);
 }
 
+function texts() {
+    return src('./texts/**/*')
+        .pipe(dest('./public/texts'))
+        .on('error', console.error);
+}
+
 function clean() {
     return del(['public/**/*', '!public'], {dot: true});
 }
@@ -68,5 +74,5 @@ function clean() {
 exports.clean = clean;
 exports.default =
     series(clean,
-        parallel(css, es, eu, files, fonts, images, js, partials, views, config)
+        parallel(css, es, eu, files, fonts, images, js, partials, texts, views, config)
     );
