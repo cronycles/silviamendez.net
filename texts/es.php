@@ -10,7 +10,7 @@ $text_ln = [
         'skills' => 'Skills',
         'portfolio' => 'Mis proyectos',
         'contact' => 'Contacto',
-        'alternate_language1' => 'Eu'
+        'alternate_language1' => 'Eus'
     ],
 
     'about_section' => [

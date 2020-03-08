@@ -13,7 +13,7 @@
                 <div class="about-text">
                     <?= $text_ln['about_section']['text'] ?>
                     <p class="text-center">
-                        <a class="btn btn-primary" href="https://cdn.silviamendez.net/CV_SilviaMendez.pdf"
+                        <a class="btn btn-primary" href="https://cdn.silviamendez.net/CV_SilviaMendez_<?=$current_language?>.pdf"
                            target="_blank">
                             <i class="fa fa-download"></i>
                             <?= $text_ln['about_section']['download_cv_button'] ?>

@@ -1,12 +1,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title><?= $text['name'] . " " . $text['surname1'] . " - " . $text_ln['position']  ?></title>
+    <title><?= $text_ln['meta_title']  ?></title>
     <meta name="description"
           content="<?= $text_ln['meta_description'] ?>">
     <meta name="author" content="<?= $text['name'] . " " . $text['surname1'] . " - " . $text['surname2']  ?>">
-    <meta name="keywords"
-          content="<?= $text_ln['keywords'] ?>">
+    <meta name="keywords" content="<?= $text_ln['meta_keywords'] ?>">
 
     <meta http-equiv="Content-Security-Policy" content="
     default-src 'self';
