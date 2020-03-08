@@ -8,6 +8,8 @@ repository de la web silviamendez.net
 ## local view osx
 `php -S localhost:8000 -t public/`
 
+Nota bene, il progetto non funziona se non vai direttamente al /es o al /eu, perché é questione del file HSTS che in locale non funziona, non fa la redirection da index a index/es. Quindi aprire direttamente localhost:8000/es
+
 ## Deploy
 El proyecto está asociado directamente con la web de hosting. 
 

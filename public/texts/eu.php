@@ -1,48 +1,44 @@
 <?php
 
 $text_ln = [
-    'position' => "Marketing & Comunicación",
-    'meta_description' => "Silvia Méndez López - Especializada en Marketing y Comunicación. Perfil profesional y CV",
+    'meta_title' => "Silvia Méndez | Marketin eta Komunikazioa",
+    'meta_description' => "Marketin eta Komunikazioan aditua. Profil profesionala eta Curriculuma",
     'meta_keywords' => "silviamendez, silvia mendez, silvia mendez bilbao, silvia marketing comunicación, silviamendez bilbao, silvixtu, silvia mendez marketing comunicación, silvia mendez marketing comunicación bilbao, silvia mendez curriculum, silvia mendez bilbao proyectos, marketing",
-    'my_projects_link' => "Mis proyectos",
+    'position' => "Marketin eta Komunikazioa",
+    'my_projects_link' => "Nire proiektuak",
     'nav' => [
-        'about' => '¡Hola!',
-        'skills' => 'Skills',
-        'portfolio' => 'Mis proyectos',
-        'contact' => 'Contacto',
+        'about' => 'Kaixo!',
+        'skills' => 'Trebetasunak',
+        'portfolio' => 'Proiektuak',
+        'contact' => 'Kontaktua',
         'alternate_language1' => 'Es'
     ],
-
     'about_section' => [
         'title' => '¡Hola!',
         'text' => '
                     <p>
-                        Esta soy yo, la de la foto de arriba. Alguien a quien desde muy peque&ntilde;a le encantaba 
-                        aprender idiomas y descubrir diferentes culturas y países. 
-                        As&iacute; que, cuando lleg&oacute; el momento de estudiar una carrera, decid&iacute; 
-                        diplomarme en <strong>Turismo</strong>. Este camino me llev&oacute; inesperadamente a descubrir el mundo del 
-                        <strong>Marketing y la Comunicaci&oacute;n</strong>, y tanto me gust&oacute;, que despu&eacute;s decid&iacute; 
-                        licenciarme en <strong>Publicidad y Relaciones P&uacute;blicas</strong>.
+                        Hauxe naiz ni, goiko argazkikoa. Txikitatik hizkuntza eta kultura berriak ikastea eta deskubritzea 
+                        gustatzen zitzaidan, horregatik, karrera bat ikasteko momentuan, <strong>Turismo</strong> aukeratu nuen. Ustekabean, 
+                        aukera honek <strong>Marketin eta Komunikazioaren</strong> mundua ezagutzera eraman ninduen, eta hainbat gustatu zitzaidan 
+                        arlo berri hau zein azkenean <strong>Publizitate eta Harreman Publikoak</strong> ikastea erabaki nuen.  
                     </p>
                     <p>
-                        Durante estos a&ntilde;os trabajando en diferentes sectores, no he podido evitar enamorarme 
-                        del <strong>Marketing Cultural</strong> y del <strong>Marketing Social</strong>. 
-                        El <strong>Dise&ntilde;o Gr&aacute;fico</strong> ha sido otro 
-                        de mis grandes descubrimientos, tambi&eacute;n el reto de medir e intentar mejorar cualquier 
-                        m&eacute;trica de <strong>Marketing Digital</strong>.
+                        Azkenengo urte hauetan, sektore desberdinetan lan egin eta gero, <strong>Marketin Kulturalaz</strong> eta <strong>Marketin Sozialaz</strong> 
+                        maiteminduta nagoela baieztatu dezaket. <strong>Diseinu Grafikoa</strong> beste aurkikuntza garrantzitsua izan da niretzat, 
+                        <strong>Marketin Digitalaren</strong> emaitzak hobetzearen erronkarekin batera.  
                     </p>
                     <p>
-                        Sonreír y hacer sonreír a los que me rodean, creo que esa es mi mayor virtud. 
-                        Me gusta admirar la belleza, lo "bonito", lo que entra por la vista y llega hasta las entrañas. 
-                        Busco siempre la inspiración, la busco en lugares, canciones, personas, experiencias, 
-                        frases en puertas de los baños… lo importante es nunca dejar de buscarla.
+                        Irribarre egitea eta irribarrea sortaraztea besteongan, hauxe da nire ustez dudan ahalmenik baliogarriena. Edertasuna maite du, 
+                        gauza “politak” mirestea, begitik bihotzeraino sartzen direnak. Inspirazioa bilatzen dut beti: lekuetan, abestietan, pertsonetan, 
+                        esperientzietan, bidaietan… garrantzitsuena da bilatzeari uko ez egitea.  
                     </p>
+                    
         ',
-        'download_cv_button' => 'Descargar Currículum',
+        'download_cv_button' => 'Curriculuma deskargatu',
     ],
 
     'skills_section' => [
-        'title' => 'Skills',
+        'title' => 'Trebetasunak',
         'skills' => [
             'Photoshop',
             'Illustrator',
@@ -54,23 +50,23 @@ $text_ln = [
             'Google Analytics',
             'SEO / SEM'
         ],
-        'download_cv_button' => 'Descargar Currículum',
+        'download_cv_button' => 'Curriculuma deskargatu',
     ],
 
     'portfolio_section' => [
-        'title' => 'Algunos de mis proyectos',
+        'title' => 'Nire proiektu batzuk',
         'categories' => [
-            'all' => 'Todos',
+            'all' => 'Denak',
             'web' => 'Web',
-            'design' => 'Dise&ntilde;o gr&aacute;fico',
+            'design' => 'Diseinu grafikoa',
             'branding' => 'Branding',
-            'video' => 'Video',
+            'video' => 'Bideoa',
             '3d' => '3D'
         ],
         'carousel' => [
-            'previous' => 'Atr&aacute;s',
-            'next' => 'Adelante',
-            'close' => 'Cerrar'
+            'previous' => 'Atzera',
+            'next' => 'Aurrera',
+            'close' => 'Itxi'
         ],
         'projects' => [
             [
@@ -80,15 +76,15 @@ $text_ln = [
                                 como de todo material corporativo para la empresa.'
             ],
             [
-                'title' => 'Boda Montse y Diego',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'title' => 'Montse eta Diego',
+                'category' => 'Diseinu grafikoa',
                 'description' => 'Diseño de la invitaci&oacute;n de boda de Montse y de Diego, as&iacute; como de la l&iacute;nea
                                 del resto de material gr&aacute;fico para ese d&iacute;a (carta men&uacute;, meseros,
                                 marcasitios, photocall).'
             ],
             [
-                'title' => 'Cat&aacute;logo IDAR',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'title' => 'IDAR katalogoa',
+                'category' => 'Diseinu grafikoa',
                 'description' => '<p>
                                     Nueva l&iacute;nea de imagen de IDAR Group y su cat&aacute;logo corporativo para uso
                                     comercial.
@@ -104,23 +100,23 @@ $text_ln = [
             ],
             [
                 'title' => 'KIABI Mallorca',
-                'category' => 'Video',
+                'category' => 'Bideoa',
                 'description' => 'Desarrollo de parte del Digital Art Content de los ESCAPARATES VIRTUALES de Kiabi Mallorca.'
             ],
             [
                 'title' => 'Spiuk Corner',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'category' => 'Diseinu grafikoa',
                 'description' => 'Desarrollo de elementos de PLV para los establecimientos distribuidores de SPIUK.'
             ],
             [
                 'title' => 'Basque Mountains',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'category' => 'Diseinu grafikoa',
                 'description' => '<p>Diseño del cat&aacute;logo para la marca turística BasqueMountainsBizkaia.</p>
                                 <p>*Incluidas s&oacute;lo algunas p&aacute;ginas.</p>'
             ],
             [
                 'title' => 'Packaging IDAR',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'category' => 'Diseinu grafikoa',
                 'description' => 'Packaging de IDAR para la entrega de los proyectos al cliente.'
             ],
             [
@@ -132,7 +128,7 @@ $text_ln = [
             ],
             [
                 'title' => 'Presentaci&oacute;n OSWELL',
-                'category' => 'Video',
+                'category' => 'Bideoa',
                 'description' => 'Video presentación para la empresa OSWELL Studio.'
             ],
             [
@@ -149,7 +145,7 @@ $text_ln = [
             ],
             [
                 'title' => 'Merchandising IDAR',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'category' => 'Diseinu grafikoa',
                 'description' => 'Regalo corporativo para clientes. Iluminador de bolsos con packaging creativo.'
             ],
             [
@@ -160,7 +156,7 @@ $text_ln = [
             ],
             [
                 'title' => 'Infograf&iacute;a',
-                'category' => 'Dise&ntilde;o Gr&aacute;fico',
+                'category' => 'Diseinu grafikoa',
                 'description' => 'Explicar las cosas complicadas de forma sencilla, es una de las virtudes del diseño. As&iacute;
                                 lo demuestra esta infograf&iacute;a sobre Auditor&iacute;as Energ&eacute;ticas
                                 desarrollada para IDAR.'
@@ -175,12 +171,12 @@ $text_ln = [
         ]
     ],
     'contact_section' => [
-        'title' => 'Contacto',
-        'send_message_text' => 'O envíame un mensaje directo si lo prefieres ;)',
-        'name_ph' => 'Nombre',
-        'email_ph' => 'Email',
-        'message_ph' => 'Mensaje',
-        'send_button' => 'Enviar'
+        'title' => 'Kontaktua',
+        'send_message_text' => 'Edo mezu zuzena bidali ;)',
+        'name_ph' => 'Izena',
+        'email_ph' => 'Email-a',
+        'message_ph' => 'Mezua',
+        'send_button' => 'Bidali'
     ]
 
 ];

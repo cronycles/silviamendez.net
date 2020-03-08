@@ -1,18 +1,18 @@
 <?php
 
 $text_ln = [
-    'position' => "Marketing & Comunicación",
-    'meta_description' => "Silvia Méndez López - Especializada en Marketing y Comunicación. Perfil profesional y CV",
-    'meta_keywords' => "silviamendez, silvia mendez, silvia mendez bilbao, silvia marketing comunicación, silviamendez bilbao, silvixtu, silvia mendez marketing comunicación, silvia mendez marketing comunicación bilbao, silvia mendez curriculum, silvia mendez bilbao proyectos, marketing",
+    'meta_title' => "Silvia Méndez | Marketing y Comunicación",
+    'meta_description' => "Experta en Marketing y Comunicación. Perfil profesional y currículum",
+    'meta_keywords' => "silviamendez, silvia mendez, silvia mendez bilbao, marketing, comunicación, marketing cultural, marketing social, silviamendez bilbao, silvia mendez marketing comunicación, silvia mendez marketing comunicación bilbao, silvia mendez curriculum, silvia mendez bilbao proyectos, marketing, marketing cultural bilbao, marketing social bilbao, diseño grafico bilbao, marketing digital bilbao",
+    'position' => "Marketing y Comunicación",
     'my_projects_link' => "Mis proyectos",
     'nav' => [
         'about' => '¡Hola!',
-        'skills' => 'Skills',
-        'portfolio' => 'Mis proyectos',
+        'skills' => 'Habilidades',
+        'portfolio' => 'Proyectos',
         'contact' => 'Contacto',
         'alternate_language1' => 'Eus'
     ],
-
     'about_section' => [
         'title' => '¡Hola!',
         'text' => '
@@ -42,7 +42,7 @@ $text_ln = [
     ],
 
     'skills_section' => [
-        'title' => 'Skills',
+        'title' => 'Habilidades',
         'skills' => [
             'Photoshop',
             'Illustrator',
