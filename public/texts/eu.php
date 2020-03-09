@@ -14,7 +14,7 @@ $text_ln = [
         'alternate_language1' => 'Es'
     ],
     'about_section' => [
-        'title' => '¡Hola!',
+        'title' => 'Kaixo!',
         'text' => '
                     <p>
                         Hauxe naiz ni, goiko argazkikoa. Txikitatik hizkuntza eta kultura berriak ikastea eta deskubritzea 
