@@ -10,6 +10,62 @@ $vars = [
         'projects' => [
             [
                 'category' => 'branding',
+                'img' => 'project17/p17-cover.jpg',
+                'carousel' => [
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project17/p17-img01.jpg'
+                    ]
+                ],
+            ],
+            [
+                'category' => 'design',
+                'img' => 'project18/p18-cover.jpg',
+                'carousel' => [
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project18/p18-img01.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project18/p18-img02.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project18/p18-img03.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project18/p18-img04.jpg'
+                    ],
+                ],
+            ],
+            [
+                'category' => 'design',
+                'img' => 'project19/p19-cover.jpg',
+                'carousel' => [
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project19/p19-img01.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project19/p19-img02.jpg'
+                    ]
+                ],
+            ],
+            [
+                'category' => 'branding',
+                'img' => 'project20/p20-cover.jpg',
+                'carousel' => [
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project20/p20-img01.jpg'
+                    ]
+                ],
+            ],
+            [
+                'category' => 'branding',
                 'img' => 'project1/p1-cover.jpg',
                 'carousel' => [
                     [

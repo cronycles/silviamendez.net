@@ -16,7 +16,7 @@
     child-src 'self' *.youtube.com;
     media-src 'self' *.youtube.com;
     object-src 'self' *.youtube.com;
-    img-src 'self' *.google-analytics.com">
+    img-src 'self' *.silviamendez.net *.google-analytics.com">
 
     <link rel="alternate" href="http://silviamendez.net/" hreflang="es-es" />
     <link rel="alternate" href="http://silviamendez.net/es/" hreflang="es-es" />

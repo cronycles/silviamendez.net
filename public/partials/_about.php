@@ -6,7 +6,7 @@
         </div>
         <div class="row">
             <div class="col-md-12 text-center">
-                <img src="../img/about_v1.0.jpg" width="270" height="270" class="img-responsive"
+                <img src="https://cdn.silviamendez.net/about_v2.0.jpg" width="270" height="270" class="img-responsive"
                      alt="<?= $text['name'] . " " . $text['surname1'] ?>">
             </div>
             <div class="col-md-8 col-md-offset-2">

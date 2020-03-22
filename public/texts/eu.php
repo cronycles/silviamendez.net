@@ -70,6 +70,26 @@ $text_ln = [
         ],
         'projects' => [
             [
+                'title' => '#MegaSelfie',
+                'category' => 'Branding',
+                'description' => 'ciao'
+            ],
+            [
+                'title' => 'GKE CEAR',
+                'category' => 'Diseinu grafikoa',
+                'description' => 'ciao'
+            ],
+            [
+                'title' => 'Bilboko AAEEen Museoa',
+                'category' => 'Diseinu grafikoa',
+                'description' => 'ciao'
+            ],
+            [
+                'title' => 'el Bunker',
+                'category' => 'Branding',
+                'description' => 'ciao'
+            ],
+            [
                 'title' => 'Hiriko Estudio',
                 'category' => 'Branding',
                 'description' => 'Creaci&oacute;n de nueva marca para el estudio de arquitectura “Hiriko Estudio”, as&iacute;
