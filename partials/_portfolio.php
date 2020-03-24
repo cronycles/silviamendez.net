@@ -19,9 +19,9 @@
                                data-filter=".branding"><?= $text_ln['portfolio_section']['categories']['branding'] ?></a>
                         </li>
                         <li><a href="#"
-                               data-filter=".video"><?= $text_ln['portfolio_section']['categories']['video'] ?></a></li>
-                        <li><a href="#" data-filter=".3D"><?= $text_ln['portfolio_section']['categories']['3d'] ?></a>
+                               data-filter=".video"><?= $text_ln['portfolio_section']['categories']['video'] ?></a>
                         </li>
+                        
                     </ol>
                 </li>
             </ul>

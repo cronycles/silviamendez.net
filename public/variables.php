@@ -15,6 +15,10 @@ $vars = [
                     [
                         'type' => 'img',
                         'url' => '../files/portfolio/project17/p17-img01.jpg'
+                    ],
+                    [
+                        'type' => 'video',
+                        'url' => 'https://www.youtube.com/embed/Gb224-5RxQ0'
                     ]
                 ],
             ],
@@ -184,7 +188,7 @@ $vars = [
                 'carousel' => [
                     [
                         'type' => 'video',
-                        'url' => 'https://www.youtube.com/embed/e-TsyzzZgX4'
+                        'url' => 'https://www.youtube.com/embed/RcaQMPFdGDo'
                     ]
                 ]
             ],
@@ -195,11 +199,23 @@ $vars = [
                     [
                         'type' => 'img',
                         'url' => '../files/portfolio/project11/p11-img01.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project11/p11-img02.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project11/p11-img03.jpg'
+                    ],
+                    [
+                        'type' => 'img',
+                        'url' => '../files/portfolio/project11/p11-img04.jpg'
                     ]
                 ]
             ],
             [
-                'category' => '3D',
+                'category' => 'video',
                 'img' => 'project12/p12-cover.jpg',
                 'carousel' => [
                     [
@@ -229,10 +245,6 @@ $vars = [
                     [
                         'type' => 'img',
                         'url' => '../files/portfolio/project14/p14-img01.jpg"'
-                    ],
-                    [
-                        'type' => 'img',
-                        'url' => '../files/portfolio/project14/p14-img02.jpg'
                     ],
                     [
                         'type' => 'img',

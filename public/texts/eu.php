@@ -60,8 +60,7 @@ $text_ln = [
             'web' => 'Web',
             'design' => 'Diseinu grafikoa',
             'branding' => 'Branding',
-            'video' => 'Bideoa',
-            '3d' => '3D'
+            'video' => 'Bideoa'
         ],
         'carousel' => [
             'previous' => 'Atzera',

@@ -64,8 +64,7 @@ $text_ln = [
             'web' => 'Web',
             'design' => 'Dise&ntilde;o gr&aacute;fico',
             'branding' => 'Branding',
-            'video' => 'Video',
-            '3d' => '3D'
+            'video' => 'Video'
         ],
         'carousel' => [
             'previous' => 'Atr&aacute;s',
