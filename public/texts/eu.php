@@ -70,121 +70,139 @@ $text_ln = [
         ],
         'projects' => [
             [
-                'title' => '#MegaSelfie',
+                'title' => 'Guggenheim Bilbao Museoa',
                 'category' => 'Branding',
-                'description' => 'ciao'
+                'description' => '<p><i>#MegaSelfie</i> <b>proiektu digitala</b>ren zuzendaritza eta gainbegiratzea 
+                aurrera eraman nuen.</p>
+                <p>Bilboko Guggenheim Museoaren XX. urteurrena zela eta, sare sozialetara zuzendutako 
+                komunikazio ekintza hau burutu zen. Ekitaldi honek sareetan hedapena eta <i>engagement</i>-a 
+                lortzea zuen helburu. Museoaren ondotik pasatzen ziren pertsonak animatzen genituen 
+                argazki-bideo bat ateratzera Gehry-ren eraikinaren ondoan. Parte-hartzaileek, 
+                <i>#MegaSelfie</i> hau sare sozialetan konpartitu behar zuten museoak martxan jarri zuen 
+                konkurtsoan parte hartu ahal izateko.</p>
+                 
+                <p>Ekitaldiak, bi eguneko iraupena izan zuena, museoaren sare-sozialetako inoizko 
+                aktibitate-daturik altuena lortu zuen, 1.000 <i>#MegaSelfie</i> baino gehiago ateraz.</p>
+                '
             ],
             [
-                'title' => 'GKE CEAR',
+                'title' => 'CEAR GKE',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'ciao'
+                'description' => '<p>CEAR Euskadirentzat boluntario gisa egindako lana. GKEren 2018ko memoriaren 
+                <b>infografia</b> guztiak diseinatu nituen.</p>
+                
+                <p><i>*Bakarrik infografia batzuk daude ikusgai.</i></p>'
             ],
             [
                 'title' => 'Bilboko AAEEen Museoa',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'ciao'
+                'description' => 'Bilboko Arte Ederretako Museoaren <b>gonbidapenen diseinua eta kreatibitatea</b>. 
+                Museoko eraikina modernoaren fatxadan inspiratuta daude.'
             ],
             [
                 'title' => 'el Bunker',
                 'category' => 'Branding',
-                'description' => 'ciao'
+                'description' => 'Bigarren Mundu-Gerraren bunker alemaniar batean giroturik dagoen 
+                <i>escape room</i> baten <b>logotipoaren proposamena diseinatu</b> nuen.'
             ],
             [
                 'title' => 'Hiriko Estudio',
                 'category' => 'Branding',
-                'description' => 'Creaci&oacute;n de nueva marca para el estudio de arquitectura “Hiriko Estudio”, as&iacute;
-                                como de todo material corporativo para la empresa.'
+                'description' => '“Hiriko Estudio” arkitektura estudioaren <b>marka berria sortu</b> nuen, 
+                baita enpresaren <b>material korporatibo</b> guztia ere. 
+                '
             ],
             [
                 'title' => 'Montse eta Diego',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'Diseño de la invitaci&oacute;n de boda de Montse y de Diego, as&iacute; como de la l&iacute;nea
-                                del resto de material gr&aacute;fico para ese d&iacute;a (carta men&uacute;, meseros,
-                                marcasitios, photocall).'
+                'description' => 'Montse eta Diegoren <b>ezkontza-gonbidapenen diseinua</b> egin nuen, 
+                baita festaren gainontzeko diseinua ere (menua, photocall-a, meseroak, e.a.).'
             ],
             [
                 'title' => 'IDAR katalogoa',
                 'category' => 'Diseinu grafikoa',
                 'description' => '<p>
-                                    Nueva l&iacute;nea de imagen de IDAR Group y su cat&aacute;logo corporativo para uso
-                                    comercial.
-                                </p>
-                                <p>*Incluidas s&oacute;lo algunas p&aacute;ginas.</p>'
+                IDAR Group <b>marka-irudiaren berrikuntza eta katalogo berriaren diseinua</b>.
+                </p>
+                <p><i>*Katalogoaren atal batzuk bakarrik daude ikusgai.</i></p>'
             ],
             [
                 'title' => 'Crosetti Interior Design',
                 'category' => 'Web',
-                'description' => '<p>Nueva web para el estudio de interiorismo Crosetti Interior Design.</p>
+                'description' => '<p>Crosetti Interior Design interiorismo-estudioaren <b>webgune berria</b> egin nuen.</p>
                                 <p><a target="_blank" href="http://www.crosetti.it">www.crosetti.it</a>
                                 <p/>'
             ],
             [
                 'title' => 'KIABI Mallorca',
                 'category' => 'Bideoa',
-                'description' => 'Desarrollo de parte del Digital Art Content de los ESCAPARATES VIRTUALES de Kiabi Mallorca.'
+                'description' => 'Kiabi Mallorcaren erakusleiho birtualen <i>Digital Art Content</i>-aren <b>edukiaren atal batzuk diseinatu</b> nituen.'
             ],
             [
                 'title' => 'Spiuk Corner',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'Desarrollo de elementos de PLV para los establecimientos distribuidores de SPIUK.'
+                'description' => 'Spiuk enpresaren denda-banatzaileentzako <b>POS elementuak diseinatu</b> nituen.'
             ],
             [
                 'title' => 'Basque Mountains',
                 'category' => 'Diseinu grafikoa',
-                'description' => '<p>Diseño del cat&aacute;logo para la marca turística BasqueMountainsBizkaia.</p>
-                                <p>*Incluidas s&oacute;lo algunas p&aacute;ginas.</p>'
+                'description' => '<p>Basque Mountains Bizkaia marka-turistikoaren <b>katalogoaren diseinua</b>.
+                </p>
+                                <p><i>*Katalogoaren atal batzuk bakarrik daude ikusgai.</i></p>'
             ],
             [
                 'title' => 'Packaging IDAR',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'Packaging de IDAR para la entrega de los proyectos al cliente.'
+                'description' => 'IDAR enpresak, bezeroei proiektuak entregatzeko erabiltzen zen <b><i>packaging</i>-a diseinatu</b> nuen.
+                '
             ],
             [
                 'title' => 'Hiriko Estudio',
                 'category' => 'Web',
-                'description' => '<p>Nueva web para el estudio de arquitectura Hiriko Estudio.</p>
+                'description' => '<p>“Hiriko Estudio” arkitektura estudioaren <b>webgune berria</b> egin nuen.</p>
                                 <p><a target="_blank" href="http://www.hirikoestudio.com">www.hirikoestudio.com</a>
                                 <p/>'
             ],
             [
-                'title' => 'Presentaci&oacute;n OSWELL',
+                'title' => 'OSWELL aurkezpena',
                 'category' => 'Bideoa',
-                'description' => 'Video presentación para la empresa OSWELL Studio.'
+                'description' => 'OSWELL Studio enpresaren <b>aurkezpen bideoa egin</b> nuen.'
             ],
             [
                 'title' => 'EMITE',
                 'category' => 'Branding',
-                'description' => 'Creaci&oacute;n de la marca EMITE y de su cat&aacute;logo corporativo para uso
-                                comercial.'
+                'description' => 'EMITE <b>marka-korporatiboa</b> diseinatu nuen, baita bere <b>katalogoa berria</b> ere. 
+                '
             ],
             [
                 'title' => 'Marineda City',
-                'category' => '3D',
-                'description' => 'Renderizado y video presentaci&oacute;n del proyecto de &aacute;reas de descanso y de
-                                entretenimiento para el centro comercial Marineda City.'
+                'category' => 'Bideoa',
+                'description' => 'Marineda City merkatal zentruari proposatutako atseden-guneen proiektuaren 
+                <b>renderizatua eta bideo-aurkezpena</b> egin nuen.
+                '
             ],
             [
                 'title' => 'Merchandising IDAR',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'Regalo corporativo para clientes. Iluminador de bolsos con packaging creativo.'
+                'description' => 'Bezeroentzako <b>opari korporatiboaren kreatibitatea eta diseinua</b>: poltsa-argitzailea eta bere <i>packaging</i>-a.
+                '
             ],
             [
                 'title' => 'Crosetti Interior Design',
                 'category' => 'Branding',
-                'description' => 'Creaci&oacute;n de nueva marca para el estudio de interiorismo “Crosetti Interior
-                                Design”, as&iacute; como de todo material corporativo para la empresa.'
+                'description' => '“Crosetti Interior Design” interiorismo estudioaren <b>marka berria</b> sortu nuen, baita enpresaren <b>material korporatibo</b> guztia ere. 
+                '
             ],
             [
-                'title' => 'Infograf&iacute;a',
+                'title' => 'Infografia',
                 'category' => 'Diseinu grafikoa',
-                'description' => 'Explicar las cosas complicadas de forma sencilla, es una de las virtudes del diseño. As&iacute;
-                                lo demuestra esta infograf&iacute;a sobre Auditor&iacute;as Energ&eacute;ticas
-                                desarrollada para IDAR.'
+                'description' => 'Diseinuaren gaitasun garrantzitsuenetariko bat gauza konplexuak modu eskematiko eta errazean azaltzea da. Hau argi ikusten da IDAR-entzat diseinatu 
+                nuen auditoria energetikoei buruzko <b>infografia</b> honetan.  '
             ],
             [
                 'title' => 'Basque Mountains',
                 'category' => 'Web',
-                'description' => ' <p>Nueva web para la marca tur&iacute;stica Basque Mountains Bizkaia. </p>
+                'description' => ' <p>Basque Mountains Bizkaia marka-turistikoren <b>webgune berria</b> egin nuen.</p>
                                 <p><a target="_blank" href="http://www.basquemountains.com">www.basquemountains.com</a>
                                 <p/>'
             ],
