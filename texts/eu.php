@@ -17,20 +17,20 @@ $text_ln = [
         'title' => 'Kaixo!',
         'text' => '
                     <p>
-                        Hauxe naiz ni, goiko argazkikoa. Txikitatik hizkuntza eta kultura berriak ikastea eta deskubritzea 
-                        gustatzen zitzaidan, horregatik, karrera bat ikasteko momentuan, <strong>Turismo</strong> aukeratu nuen. Ustekabean, 
-                        aukera honek <strong>Marketin eta Komunikazioaren</strong> mundua ezagutzera eraman ninduen, eta hainbat gustatu zitzaidan 
-                        arlo berri hau zein azkenean <strong>Publizitate eta Harreman Publikoak</strong> ikastea erabaki nuen.  
+                        Hauxe naiz ni, goiko argazkikoa. Txikitatik hizkuntza eta kultura berriak ikastea eta deskubritzea gustatu izan zait, 
+                        eta horregatik, karrera bat ikasteko momentuan, <b>Turismo</b> aukeratu nuen. Ustekabean, 
+                        aukera horrek <b>Marketin eta Komunikazioaren</b> mundua ezagutzera eraman ninduen, 
+                        eta horrenbeste gustatu zitzaidan arlo berri hori, non azkenean <b>Publizitate eta Harreman Publikoak</b> ikastea erabaki bainuen.
                     </p>
                     <p>
-                        Azkenengo urte hauetan, sektore desberdinetan lan egin eta gero, <strong>Marketin Kulturalaz</strong> eta <strong>Marketin Sozialaz</strong> 
-                        maiteminduta nagoela baieztatu dezaket. <strong>Diseinu Grafikoa</strong> beste aurkikuntza garrantzitsua izan da niretzat, 
-                        <strong>Marketin Digitalaren</strong> emaitzak hobetzearen erronkarekin batera.  
+                        Azkenengo urte hauetan, sektore desberdinetan lan egin eta gero, <b>Marketin Kulturalaz</b> eta <b>Marketin Sozialaz</b> 
+                        maiteminduta nagoela baieztatu dezaket. <b>Diseinu Grafikoa</b> beste aurkikuntza garrantzitsua izan da niretzat, 
+                        <b>Marketin Digitalaren</b> emaitzak hobetzearen erronkarekin batera.  
                     </p>
                     <p>
-                        Irribarre egitea eta irribarrea sortaraztea besteongan, hauxe da nire ustez dudan ahalmenik baliogarriena. Edertasuna maite du, 
-                        gauza “politak” mirestea, begitik bihotzeraino sartzen direnak. Inspirazioa bilatzen dut beti: lekuetan, abestietan, pertsonetan, 
-                        esperientzietan, bidaietan… garrantzitsuena da bilatzeari uko ez egitea.  
+                        Irribarre egitea eta irribarrea sorraraztea besteengan, horixe da nire ustez dudan ahalmenik baliagarriena. 
+                        Edertasuna maite dut, gauza “politak” mirestea, begietatik bihotzeraino sartzen direnak. Inspirazioa bilatzen dut beti: 
+                        lekuetan, abestietan, pertsonetan, esperientzietan, bidaietan… Garrantzitsuena bilatzeari uko ez egitea baita.  
                     </p>
                     
         ',
