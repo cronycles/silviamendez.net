@@ -1,0 +1,37 @@
+#home__below__container {
+
+    .presentation-photo{
+        text-align: center;
+        img {
+            border-radius: 50%;
+            width: 15rem;
+            display: inline-block;
+        }
+        
+    }
+
+    .section__contact {
+        .contact__types{
+            display: grid;
+            justify-items: center;
+            grid-gap: 2rem;
+            align-items: center;
+            text-align: center;
+            color: $complementaryColor;
+            font-weight: $fontWeightMedium;
+            i{
+                font-size: 2rem;
+            }
+
+            @media(--no-mobileDevice) {
+                grid-auto-flow: column;
+            }
+        }
+
+        p.form__title{
+            font-size: 1.5rem;
+            margin: 2rem 0;
+        }
+       
+    }
+}

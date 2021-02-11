@@ -1,0 +1,35 @@
+@import "layout/variables";
+@import "layout/fonts";
+
+
+/*----Layout----*/
+@import "layout/globals";
+@import "layout/buttons";
+@import "layout/animations";
+@import "layout/wrapper";
+@import "layout/main";
+@import "layout/page";
+
+@import "viewComponents/header";
+@import "viewComponents/footer";
+@import "viewComponents/cookie-consent";
+
+/*----Form----*/
+@import "custom/form/form";
+
+@import "custom/sorting/sorting";
+@import "custom/cro-auto-adjust-gallery/cro-auto-adjust-gallery";
+@import "custom/cro-vertical-gallery/cro-vertical-gallery";
+@import "custom/cro-fs-images-carousel/cro-fs-images-carousel";
+
+/*----Modules----*/
+@import "modules/cro-auto-adjust-gallery";
+@import "modules/cover";
+@import "modules/skills";
+@import "custom/cro-readmore-text/cro-readmore-text";
+
+/*----Pages----*/
+@import "pages/unknown";
+@import "pages/home";
+
+@import "auth/auth";

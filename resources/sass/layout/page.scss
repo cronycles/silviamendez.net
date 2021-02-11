@@ -1,0 +1,76 @@
+#page__container {
+    padding-top: $headerHeight + 3rem;
+    padding-left: $pageSideMargins;
+    padding-right: $pageSideMargins;
+
+    ul.section__breadcrumb {
+        margin: 0;
+
+        //se si decide mettere il breadcrumb in tutta la web allora abbassare il padding top del page container e togliere sta gnañpa
+        margin-top: -2rem;
+        padding: 5px 10px;
+        list-style: none;
+        background-color: #eee;
+        text-transform: uppercase;
+
+        /* Display list items side by side */
+        li {
+            display: inline;
+            a {
+                text-decoration: none;
+                &:hover {
+                    color: var(--corporateColor);
+                }
+            }
+        }
+        /* Add a slash symbol (/) before/behind each list item */
+        li:before {
+            padding: 8px;
+            color: black;
+            content: "\/";
+        }
+    }
+}
+
+.page__section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    .section__title {
+        margin: $pageSideMargins;
+        text-align: center;
+        hr {
+            height: 4px;
+            width: 70px;
+            text-align: center;
+            position: relative;
+            background: #66c7c6;
+            margin: 0 auto 30px;
+            border: 0;
+        }
+    }
+    
+    .page__section__box {
+        padding: $pageSideMargins;
+    }
+
+    &.colored {
+        background-color: $corporateColor;
+        color: $neutralColor;
+        .section__title {
+           
+            hr {
+                background: rgba(255, 255, 255, 0.3);
+            }
+        }
+    }
+    
+}
+
+.page__section.private__section {
+  a {
+      color: $complementaryColor;
+  }  
+  a.cro__button {
+    color: $neutralColor;
+  }
+}

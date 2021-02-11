@@ -1,0 +1,87 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+
+    font-family: $fontFamily;
+    color: $textColor;
+    font-size: $regularFontSize;
+    font-weight: $fontWeightRegular;
+    line-height: 2rem;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: $fontWeightMedium;
+    color: $complementaryColor;
+}
+
+h1 {
+    font-size: $h1FontSize;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-size: $h2FontSize;
+}
+
+h3 {
+    font-weight: $fontWeightMedium;
+    font-size: $h3FontSize;
+    line-height: 2.5rem;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 1rem;
+    @media(--no-mobileDevice) {
+        padding-bottom: 2rem;
+    }
+
+}
+
+@mixin linkBehaviour {
+
+    cursor: pointer;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+a {
+    @include linkBehaviour;
+    color: $linksColor;
+    &:hover {
+        color: $linksColor;
+    }
+    &:active, &:visited {
+        color: $linksColor;
+    }
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.none {
+    display: none;
+}
+
+.center {
+    text-align: center;
+}
+
+.text-ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+

@@ -1,0 +1,39 @@
+.page__unknown{
+    text-align:center;
+    margin: 0;
+    padding: 0;
+    text-shadow: 2px 2px white;
+
+    h1 {
+        font-size: 6rem;
+    }
+
+    i {
+        font-size: 10rem;
+    }
+
+    .image {
+
+        position: absolute;
+        top: $headerHeight;
+        left: 0;
+
+        width: 100%;
+
+        height: 100%;
+
+        background: url(https://cdn.silviamendez.net/images/404-background.jpg) no-repeat center center fixed;
+
+        background-size: cover;
+
+        background-color: white;
+
+        z-index: -1;
+    }
+
+    .content {
+
+
+    }
+}
+

@@ -1,0 +1,84 @@
+/*---Fonts---*/
+$fontFamily: 'Poppins', sans-serif;
+$fontWeightThin:100;
+$fontWeightRegular:200;
+$fontWeightMedium:300;
+$fontWeightBold:400;
+$fontWeightBlack:500;
+$regularFontSize: 14px;
+$h1FontSize : 1.8rem;
+$h2FontSize : 1.1rem;
+$h3FontSize : 2.3rem;
+
+
+/*---Margins---*/
+$pageSideMargins: 1.7rem;
+$pageMarginsNoMobile: $pageSideMargins;
+$pageSectionBottomMargins: 3rem;
+$pageSectionBoxBottomMargins: 1rem;
+
+/*---Colors---*/
+$backgroundColor: #ffffff;
+$corporateColor: #66c7c6;
+$complementaryColor: #121d1f;
+$neutralColor: #ffffff;
+$textColor: $complementaryColor;
+$linksColor: $neutralColor;
+$formFieldColor: $complementaryColor;
+$formFieldColorWithColoredBackgound: $neutralColor;
+$formFieldErrorColor: #ff5353;
+
+/*---Buttons---*/
+$buttonTextColor: $neutralColor;
+$buttonBackgroundColor: $complementaryColor;
+$buttonTextColorHover: $buttonTextColor;
+$buttonBorderColor: $buttonTextColor;
+$smallButtonInternalPadding: .5rem;
+$basicButtonInternalPadding: 1rem;
+
+/*---Header---*/
+$headerHeight: 5rem;
+$headerSideMargins: $pageSideMargins;
+$headerSideMarginsNoMobile: $pageSideMargins;
+$headerLogoHeight: 3rem;
+$headerLinksSpace: 1rem;
+$headerLinksSpaceNoMobile: 1.2rem;
+$headerBurgerSize: 2rem;
+$headerLinkFontSize: 2rem;
+$headerLinkFontSizeNoMobile: 1rem;
+$headerBackgroundColor: $complementaryColor;
+$headerBurgerMenuButtonColor: $corporateColor;
+$headerMobileMenuBackgroundColor: #44444491;
+$headerMobileMenuTextColor: $complementaryColor;
+$headerDropdownMenuBackgroundColor: $headerMobileMenuBackgroundColor;
+$headerDropdownMenuTextColor: $complementaryColor;
+$headerInvertedLinkColor: $complementaryColor; //nella home bisogna invertire il colore del header link
+
+/*---cro-auto-adjust-gallery---*/
+$croAAG_minImageSize: 50ch;
+$croAAG_gridGap: $pageSideMargins;
+$croAAG_overlayAlpha: 0.5;
+$croAAG_overlayTextColor: $complementaryColor;
+
+/*---cro-vertical-gallery---*/
+$croVG_gridGap: $pageSideMargins;
+
+/*---Media variables---*/
+:root {
+    --mobileScreenMaxWidth: 767px;
+    --tabletScreenMaxWidth: 991px;
+    --smallDesktopScreenMaxWidth: 1199px;
+    --mediumDesktopScreenMaxWidth: 1329px;
+    --largeDesktopScreenMaxWidth: 1559px;
+}
+// @custom-media --mobileDevice (width <= var(--mobileScreenMaxWidth));
+// @custom-media --tabletDevice (calc(var(--mobileScreenMaxWidth) + 1px) <= width <= var(--tabletScreenMaxWidth));
+// @custom-media --smallDesktop (calc(var(--tabletScreenMaxWidth) + 1px) <= width <= var(--smallDesktopScreenMaxWidth));
+// @custom-media --mediumDesktop (calc(var(--smallDesktopScreenMaxWidth) + 1px) <= width <= var(--mediumDesktopScreenMaxWidth));
+// @custom-media --largeDesktop (calc(var(--mediumDesktopScreenMaxWidth) + 1px) <= width <= var(--largeDesktopScreenMaxWidth));
+// @custom-media --hugeDesktop (width > var(--largeDesktopScreenMaxWidth));
+
+// @custom-media --no-mobileDevice (width > var(--mobileScreenMaxWidth));
+
+
+@custom-media --no-mobileDevice (min-width: 768px);

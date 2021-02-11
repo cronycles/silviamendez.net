@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /auth/
+Sitemap: http://www.silviamendez.net/sitemap.xml

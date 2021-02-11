@@ -1,0 +1,51 @@
+footer {
+    color: $neutralColor;
+
+    background-color: $complementaryColor;
+    a {
+        color: $neutralColor;
+    }
+    ul {
+        list-style-type: none;
+    }
+
+    p {
+        padding-bottom: 0;
+    }
+
+    .footer__main {
+        padding: $pageSideMargins;
+
+        .footer__main-box {
+            &.footer__social-box {
+                display: grid;
+                grid-auto-flow: column;
+                grid-gap: 1rem;
+                justify-items: center;
+
+                i {
+                    font-size: 2rem;
+                }
+
+            }
+
+        }
+    }
+
+    .footer__sub {
+        font-size: 0.8rem;
+        font-weight: $fontWeightThin;
+        display: grid;
+        grid-auto-flow: column;
+        grid-gap: 1rem;
+        padding: 5px;
+        align-items: center;
+        line-height: 1rem;
+
+        section:nth-child(2) {
+            text-align: right;
+            justify-self: right;
+        }
+
+    }
+}
